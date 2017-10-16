@@ -13,6 +13,10 @@ namespace DemoLand.SQLiteManager
 	{
 		private IDbConnection dbconn = null;
 
+		public IDbConnection Connection {
+			get { return dbconn; }
+		}
+
 		public SQLiteManager(string saDbPath = null) {
 			if (saDbPath != null) {
 				Connect(saDbPath);
