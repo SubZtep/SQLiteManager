@@ -1,8 +1,5 @@
 using UnityEngine;
-using UnityEditor;
-using UnityEngine.TestTools;
 using NUnit.Framework;
-using System.Collections;
 using Mono.Data.Sqlite;
 using System.Data;
 using System.Collections.Generic;
@@ -26,7 +23,6 @@ namespace DemoLand.SQLiteManager.Test
 
 			ClearTestData();
 		}
-
 
 		private bool SetupTestDb() {
 			try {
