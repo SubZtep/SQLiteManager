@@ -1,7 +1,7 @@
 SQLite Manager
 ==============
 
-SQLite database manager for Unity3D. Only helps query the database yet. To create your database, schema and add data I recommend to use [DB Browser for SQLite](http://sqlitebrowser.org/).
+SQLite database manager for Unity3D. Only helps query the database yet. To create your database, schema and add data I recommend to use [DB Browser for SQLite](http://sqlitebrowser.org/). Tested only on Windows yet.
 
 > It's under development, the syntax might change in the future. Even I try to make it safe please use it at your own risk.
 
