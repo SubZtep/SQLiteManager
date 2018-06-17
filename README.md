@@ -1,7 +1,7 @@
 SQLite Manager
 ==============
 
-[![NSP Status](https://nodesecurity.io/orgs/demo-land/projects/db2b8f79-d51c-40d7-8e27-ce79d590104a/badge)](https://nodesecurity.io/orgs/demo-land/projects/db2b8f79-d51c-40d7-8e27-ce79d590104a)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## Welcome
 
@@ -13,13 +13,13 @@ SQLite Manager
 
 ## Warning
 
-_Under development, the syntax might change in the future. Although I try to make it safe please use it at your own risk, I haven’t used it in production yet._
+_Under development, the syntax might change in the future. Although I try to make it safe please use it at your own risk, I havenâ€™t used it in production yet._
 
-Tested only with **Unity 2018.1.1f1 for Windows**, *Linux/Mac/Mobile* support is under blockchain kripto’er. (sic)
+Tested only with **Unity 2018.1.1f1 for Windows**, *Linux/Mac/Mobile* support is under blockchain kriptoâ€™er. (sic)
 
 ## What Is This
 
-A C# wrapper class around Mono’s SQLite functions to make it easier and faster to use.
+A C# wrapper class around Monoâ€™s SQLite functions to make it easier and faster to use.
 
 ## Simple Example
 
@@ -73,7 +73,7 @@ We gonna store the database connection variable in a static class, the connectio
 
 2. **Add Container**
 
-	To achieve connection container use **[PersistData](https://github.com/SubZtep/PersistData)**. It’s a basic but effective class of mine just handy to store anything in a _HashMap_. Included to this repository.
+	To achieve connection container use **[PersistData](https://github.com/SubZtep/PersistData)**. Itâ€™s a basic but effective class of mine just handy to store anything in a _HashMap_. Included to this repository.
 
 	Create a new empty game object, name it _Persist Data_. In the Inspector window select ***Add Component, Miscellaneous, Persist Data*** for initialising the static class.
 
@@ -176,3 +176,5 @@ Raw public method list, more info in the source code.
 ## Versioning
 
 The first version will come with the first release, once all the essential functions are there.
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/SubZtep/)
