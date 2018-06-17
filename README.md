@@ -130,7 +130,7 @@ If you'd like to test the connection or get disappointed of lack of functions ju
 
 At this point, your database should be ready to use without any error message on the Console window. _Game Manager_ Inspector window should look like below.
 
-![Components on Inspector window](../docs/img/plugin_screen.png)
+![Components on Inspector window](https://cdn.rawgit.com/SubZtep/SQLiteManager/279412aa/docs/img/plugin_screen.png?raw=true)
 
 ## :bulb: Example Code Snippets
 
