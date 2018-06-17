@@ -1,7 +1,7 @@
 SQLite Manager
 ==============
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/SubZtep/SQLiteManager/blob/master/LICENSE) [![Alpha Stage](https://img.shields.io/badge/stage-alpha-green.svg)](https://github.com/SubZtep/SQLiteManager/blob/master/README.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## Welcome
 
