@@ -26,7 +26,7 @@ namespace DemoLand.SQLiteManager.Test
 
 		private bool SetupTestDb() {
 			try {
-				db = new SQLiteManager("Db/test.db");
+				db = new SQLiteManager("Test.db");
 			} catch (SqliteException e) {
 				Debug.Log("Sqlite exception: " + e.Message);
 				return false;

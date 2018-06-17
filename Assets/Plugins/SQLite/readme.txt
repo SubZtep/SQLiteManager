@@ -1,0 +1,1 @@
+Copy the "Mono.Data.dll", "Mono.Data.Sqlite.dll" and "Mono.Data.SqliteClient.dll" files from "C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0"
